@@ -1,0 +1,27 @@
+tr {
+  height: 7rem;
+}
+th {
+  width: 150px;
+  text-align: right;
+  padding-right: 1rem;
+}
+.input_area {
+  width: 480px;
+}
+.content p {
+  text-align: center;
+}
+#submit {
+  background-color: blue;
+  color: #fff;
+  width: 8rem;
+  height: 5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 1rem;
+  padding: 0rem 1.5rem;
+}
+#submit:hover {
+  opacity: 0.5;
+}
